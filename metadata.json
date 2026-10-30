@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe Studio",
+  "description": "A refined, responsive Tic Tac Toe game with unbeatable Minimax AI, local two-player mode, customizable grid sizes, sound effects, and match analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
